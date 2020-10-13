@@ -1,0 +1,37 @@
+.beerDetailsWrapper {
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: start;
+    padding: 10px 90px;
+    box-sizing: border-box;
+}
+
+.beerDetailsContainer {
+    width: 70%;
+}
+
+.beerDetailsWrapper h1 {
+    color: red;
+}
+
+.beerDetailsWrapper p {
+    color: #282c34;
+}
+
+.beerLabelWrapper {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.beerBrandImage {
+    margin-left: 150px;
+    margin-top: 75px;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}

@@ -1,0 +1,33 @@
+.breweryDetailsWrapper {
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: start;
+    padding: 10px 90px;
+    box-sizing: border-box;
+}
+
+.breweryDetailsContainer {
+    width: 70%;
+}
+
+.breweryDetailsWrapper h1 {
+    color: red;
+}
+
+.breweryDetailsWrapper p {
+    color: #282c34;
+}
+
+.breweryDetailsWrapper a {
+    text-decoration: none;
+}
+
+.breweryLabelWrapper {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}

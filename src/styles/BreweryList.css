@@ -1,0 +1,17 @@
+.breweryWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    min-height: 80vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.breweryContainer {
+    width: 50%;
+    margin-top: 10vh;
+}
+
+.search-box-country {
+    font-family: 'Courier New', Courier, monospace;
+}

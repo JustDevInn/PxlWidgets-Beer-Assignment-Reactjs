@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 10vh;
+    background: #282c34;
+    color: white;
+}
+
+.footerLink {
+    margin: 10px;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    width: 33%;
+}
+
+.footerLink:hover {
+    color: red;
+}

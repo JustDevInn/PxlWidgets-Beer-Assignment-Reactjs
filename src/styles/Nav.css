@@ -1,0 +1,24 @@
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    background: #282c34;
+}
+
+.nav-links {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.navLink {
+    width: 33%;
+    margin: 0 30px;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.navLink:hover {
+    color: red;
+}
